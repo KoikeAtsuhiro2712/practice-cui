@@ -1,1 +1,2 @@
 start practice of git on cui
+cuiでのgitの勉強を始めています。
